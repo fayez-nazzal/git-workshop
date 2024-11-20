@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "node_modules": true,
+        ".vscode": true,
+        "**/.git": false
+    },
+    "files.watcherExclude": {
+        "node_modules": true
+    },
+    "git.enabled": false,
+    "workbench.activityBar.iconMenu.visible": false,
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.location": "right",
+    "workbench.view.scm.hidden": true,
+    "workbench.activityBar.orientation": "vertical"
+}
