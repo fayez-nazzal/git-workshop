@@ -1,4 +1,4 @@
-# Git workshop
+# Git & GitHub workshop
 
 ## Prerequisites
 
@@ -115,4 +115,5 @@ Pull Requests (PRs) are a GitHub feature that lets you:
 - [Git Documentation](https://git-scm.com/doc)
 - [GitHub Guides](https://guides.github.com/)
 - [GitHub Pull Request Documentation](https://docs.github.com/en/pull-requests)
-
+- [git.fayez.io](https://git.fayez.io) - Slides link
+- [fayez.io](https://fayez.io) - My website
