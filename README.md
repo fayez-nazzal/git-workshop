@@ -5,6 +5,12 @@
 - Install Git: https://git-scm.com/downloads
 - Install VSCode: https://code.visualstudio.com/download
 
+## Clone the repo
+
+```bash
+    git clone https://github.com/fayez-nazzal/git-workshop
+```
+
 ## Git Add
 
 ```bash
