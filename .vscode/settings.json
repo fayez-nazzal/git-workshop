@@ -7,10 +7,22 @@
     "files.watcherExclude": {
         "node_modules": true
     },
-    "git.enabled": false,
+    "git.enabled": true,
+    "git.autofetch": true,
+    "git.autofetchPeriod": 5,
+    "git.trace": true,
     "workbench.activityBar.iconMenu.visible": false,
     "workbench.statusBar.visible": true,
     "workbench.activityBar.location": "right",
     "workbench.view.scm.hidden": true,
-    "workbench.activityBar.orientation": "vertical"
+    "workbench.activityBar.orientation": "vertical",
+    "git.showActionButton": {
+    	"commit": false,
+    	"publish": false,
+    	"sync": false
+    },
+    "git.showCommitInput": false,
+    "scm.showHistoryGraph": false,
+    "git.closeDiffOnOperation": false
+
 }
